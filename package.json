@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"2015:1": "node ./2015/day1",
-		"2015:2": "node ./2015/day2"
+		"2015:2": "node ./2015/day2",
+		"2015:3": "node ./2015/day3"
 	},
 	"repository": {
 		"type": "git",
