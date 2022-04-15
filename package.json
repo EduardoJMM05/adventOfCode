@@ -6,7 +6,8 @@
 	"scripts": {
 		"2015:1": "node ./2015/day1",
 		"2015:2": "node ./2015/day2",
-		"2015:3": "node ./2015/day3"
+		"2015:3": "node ./2015/day3",
+		"2015:4": "node ./2015/day4"
 	},
 	"repository": {
 		"type": "git",
